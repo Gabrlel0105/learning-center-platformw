@@ -4,3 +4,6 @@
 
 Cambiar de solution a file system arriba de los archivos para ver el csproj
 Crear dependencias 
+
+
+elegir model view controller
